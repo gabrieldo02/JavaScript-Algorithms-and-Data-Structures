@@ -41,7 +41,6 @@ function telephoneCheck(str) {
     {
       return false;
     }
-
   }
 
   if(flag1!=flag2)
